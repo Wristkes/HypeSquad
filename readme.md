@@ -9,7 +9,7 @@
 
 >Também inclui um script Python para extrair seu token do Discord instalado no Windows automaticamente.
 
----
+
 
 ## 🤖 Bot (TypeScript)
 
